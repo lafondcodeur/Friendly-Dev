@@ -12,7 +12,7 @@ const AboutPage = () => {
           <h1 className="text-3xl font-bold text-white mb-2">
             Hey 🖐️, I'm MACK
           </h1>
-          <p className="text-gray-300 text-lg">
+          <p className="text-gray-300 text-lg max-w-4xl">
             I'm a passionate web developer and content creator who loves
             building friendly digital experiences and helping others grow into
             confident, modern developers.
