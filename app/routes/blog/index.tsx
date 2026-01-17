@@ -1,6 +1,5 @@
 import type { PostMeta } from "~/type";
 import type { Route } from "./+types";
-import { Link } from "react-router";
 import PostCard from "~/component/PostCard";
 
 export async function loader({
